@@ -8,8 +8,4 @@ The officers on the scene are pretty meticulous, so they've written down EVERYTH
 
 Fortunately the sergeant went through and marked the real clues with the word "CLUE" in all caps.
 
-If you get stuck, open one of the hint files (from the CL, type 'cat hint1', 'cat hint2', etc.).
-
-To find out the solution, open the file 'solution' (from the CL, type 'cat solution').
-
-Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
+Don't use a text editor to view any files except these instructions and hints(or use the cat command to read these in a separate terminal window).
